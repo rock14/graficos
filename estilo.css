@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Botao multilinhas */
+.ui-btn-inner { 
+  white-space: normal !important; 
+  text-align: left;
+}
+
+#canvas-container {
+   width: 100%;
+   text-align:left;
+}
+
+canvas {
+   display: inline;
+}
